@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif
+
 
 <!--
 **justjjasper/justjjasper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
