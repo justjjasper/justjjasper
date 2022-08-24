@@ -1,5 +1,5 @@
 <h1 align="center">
-           Welcome, I'm Jasper Bucad!
+           Hiyaa, I'm Jasper Bucad!
 </h1>
 
 <div id="header" align="center">
