@@ -17,6 +17,12 @@
   <p align="center"> 💻 Software Engineering Teacher Assistant at Galvanize / Hack Reactor </p>
   <p align="center"> Runner🏃🏽‍♂️, Lifter🏋🏽‍♂️, Snowboarder🏂 </p>
   <p align="center">📍 California </p>
+  
+  <p align="center">
+  <a href="https://www.linkedin.com/in/jasper-bucad">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
