@@ -13,7 +13,7 @@
 <h3 align="center">About Me:</h3>
 
 
-  <p align="center"> 💻 Front End Web Developer at Community School of the Arts Foundation </p>
+  <p align="center"> 💻 Web Developer </p>
   <p align="center"> Runner🏃🏽‍♂️, Lifter🏋🏽‍♂️, Snowboarder🏂 </p>
   <p align="center">📍 California </p>
   
